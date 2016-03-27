@@ -1,5 +1,6 @@
-clc; clear; close all;
+%matlab ortamında resme gürültü ekleme
 
+clc; clear; close all;
 
 img = double(imread('cameraman.tif'));
 
